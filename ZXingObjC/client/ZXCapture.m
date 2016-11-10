@@ -23,6 +23,7 @@
 #import "ZXHybridBinarizer.h"
 #import "ZXReader.h"
 #import "ZXResult.h"
+#import <AVFoundation/AVCaptureSession.h>
 
 @interface ZXCapture ()
 
